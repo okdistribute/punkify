@@ -10,7 +10,7 @@ GET PUNK
 {};{};{};{};{};{};{};{};{};{};{};{};{};
 {};{};{};{};{};{};{};{};{};{};{};{};{};
 
-```cli
+```
 npm install -g punkify
-punkify index.js index.punk.js
+punkify <infile> [<outfile>]
 ```
