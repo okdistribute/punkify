@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "because we can",
   "main": "index.js",
+  "bin": {
+    "punkify": "cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/karissa/punkify/issues"
   },
-  "homepage": "https://github.com/karissa/punkify"
+  "homepage": "https://github.com/karissa/punkify",
+  "dependencies": {
+    "inherits": "^2.0.1"
+  }
 }
