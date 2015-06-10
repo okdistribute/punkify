@@ -1,0 +1,23 @@
+{
+  "name": "punkify",
+  "version": "1.0.0",
+  "description": "because we can",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karissa/punkify.git"
+  },
+  "keywords": [
+    "its",
+    "punk"
+  ],
+  "author": "Karissa McKelvey <karissa@karissamck.com> (http://karissamck.com/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/karissa/punkify/issues"
+  },
+  "homepage": "https://github.com/karissa/punkify"
+}
